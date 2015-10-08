@@ -450,7 +450,7 @@ Lots of these taken from [this blog](http://www.ardendertat.com/2012/01/09/progr
 * `reduce(f, seq)`: apply `f` to pairs of elements in `seq` until iterable is a single value
 
 ### Other
-* Infinity: `float("inf")`
+* Infinity and -Infinity: `float("inf")` and `float("-inf")`
 * Simultaneous assignment: `a,b = b,a` to swap
 * `lambda x: <body>`: lambda function; don't need return statement
 * Tuples are immutable lists
