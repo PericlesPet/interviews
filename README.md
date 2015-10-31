@@ -361,6 +361,8 @@ Lots of these taken from [this blog](http://www.ardendertat.com/2012/01/09/progr
 * `s.join(iter)`: join items in iterable, separated by `s`
 * `s.strip([chars])`: removing leading and trailing characters
 * `s.replace(old,new[,count])`: returns copy of `s` with `old` replaced by `new`
+* `chr(char_code)`: get character for ASCII code
+* `ord(char)`: get ASCII code for character
 
 ### Lists
 * `l=[]`: initialize
